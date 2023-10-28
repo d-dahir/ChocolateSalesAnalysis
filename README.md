@@ -71,5 +71,5 @@ USA Sales Strategy: Investigate why USA sales are not proportional to its popula
 Product Focus: Build on the success of 'After Nines' with new variations.  
 Individual Recognition: Reward top salespersons like Andria Kimpton for continued motivation.  
 
-**Acknowledgements**
+**Acknowledgements**  
 Link to dataset: https://chandoo.org/wp/learn-sql-for-data-analysis/
