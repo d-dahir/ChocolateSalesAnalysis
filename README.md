@@ -5,8 +5,8 @@ SQL + PowerBI - Sales Analysis &amp; Visualisation Project
 
 Awesome Chocolate Co. uses data-driven insights for growth. This project aims to analyze sales data to answer key queries and return actionable trends and patterns.  
 
-**Data**
-[Database](awesome-chocolates-data.sql)  
+**Data**  
+[Link To Database In Github](awesome-chocolates-data.sql)  
 Tables:  
 geo: Geographical data.  
 people: Salespeople information.  
@@ -63,10 +63,10 @@ Seasonal Patterns: Monthly fluctuations in sales.
 
 [For visualised, interactable insights, view the] dashboard here.(https://livemanchesterac-my.sharepoint.com/:u:/g/personal/doualeh_dahir_student_manchester_ac_uk/ETbBclAa4zlElTSZAFhkBEgBmH-Mh_W7Jppe6gIJUAQVFQ?e=LIWIAl)  
 
-**Recommendations**
-Market Expansion: Capitalize on the success in Canada and New Zealand by further penetrating these markets with tailored marketing strategies and product offerings.
-USA Sales Strategy: Investigate why USA sales are not proportional to its population and adapt accordingly.
-Product Focus: Build on the success of 'After Nines' with new variations.
+**Recommendations**  
+Market Expansion: Capitalize on the success in Canada and New Zealand by further penetrating these markets with tailored marketing strategies and product offerings.  
+USA Sales Strategy: Investigate why USA sales are not proportional to its population and adapt accordingly.  
+Product Focus: Build on the success of 'After Nines' with new variations.  
 Individual Recognition: Reward top salespersons like Andria Kimpton for continued motivation.  
 
 **Acknowledgements**
