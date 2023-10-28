@@ -24,8 +24,8 @@ PowerBI for data visualization.
 - Execute SQL queries for data extraction.
 - Visualise data in PowerBI.
   
-**SQL Queries**
-Top Selling Products: Based on quantity and revenue.
+**SQL Queries**  
+Top Selling Products: Based on quantity.
 ```sql
 SELECT Product, SUM(Boxes) as Total_Boxes_Sold 
 FROM products 
@@ -33,7 +33,7 @@ JOIN sales ON products.PID = sales.PID
 GROUP BY Product
 ORDER BY Total_Boxes_Sold DESC;
 ```   
-
+Top Selling Products: Based on revenue.
 ```sql
 SELECT Product, SUM(Amount) AS Total_Sales
 FROM products 
@@ -51,7 +51,7 @@ GROUP BY Region
 ORDER BY Total_Sales DESC;
 ```
 
-**More Questions To Answer**
+**More Questions To Answer**  
 Top-performing Salespersons: Based on revenue generated.  
 Sales Trends: Monthly and daily patterns over time.  
 Customer Management: Number of unique customers per salesperson.  
