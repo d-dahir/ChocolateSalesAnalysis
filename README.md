@@ -63,7 +63,7 @@ Seasonal Patterns: Monthly fluctuations in sales.
 **Dashboard**
 ![Awesome Chocolates Sales Report](https://github.com/deedahir/ChocolateSalesAnalysis/assets/134728340/79d6bd17-0646-4f59-b20c-eff821da3fd5)  
 
-[For visualised, interactable insights, view the] dashboard here.(https://livemanchesterac-my.sharepoint.com/:u:/g/personal/doualeh_dahir_student_manchester_ac_uk/ETbBclAa4zlElTSZAFhkBEgBmH-Mh_W7Jppe6gIJUAQVFQ?e=LIWIAl)  
+[For visualised, interactable insights, view the dashboard here.](https://livemanchesterac-my.sharepoint.com/:u:/g/personal/doualeh_dahir_student_manchester_ac_uk/ETbBclAa4zlElTSZAFhkBEgBmH-Mh_W7Jppe6gIJUAQVFQ?e=LIWIAl)  
 
 **Recommendations**  
 Market Expansion: Capitalize on the success in Canada and New Zealand by further penetrating these markets with tailored marketing strategies and product offerings.  
