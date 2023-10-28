@@ -7,7 +7,8 @@ Awesome Chocolate Co. uses data-driven insights for growth. This project aims to
 
 **Data**  
 [Link To Database In Github](awesome-chocolates-data.sql)  
-Tables:  
+
+Tables:    
 geo: Geographical data.  
 people: Salespeople information.  
 products: Product details and pricing.  
@@ -50,13 +51,14 @@ GROUP BY Region
 ORDER BY Total_Sales DESC;
 ```
 
-Top-performing Salespersons: Based on revenue generated.
-Sales Trends: Monthly and daily patterns over time.
-Customer Management: Number of unique customers per salesperson.
-Profit Margins: Products delivering the best profitability.
+**More Questions To Answer**
+Top-performing Salespersons: Based on revenue generated.  
+Sales Trends: Monthly and daily patterns over time.  
+Customer Management: Number of unique customers per salesperson.  
+Profit Margins: Products delivering the best profitability.  
 Seasonal Patterns: Monthly fluctuations in sales.  
 
-[For all the questions and their corresponding queries, see the chocolates_queries.sql file](chocolates_queries.sql)  
+[For all the business questions and their corresponding queries, see the chocolates_queries.sql file](chocolates_queries.sql)  
 
 **Dashboard**
 ![Awesome Chocolates Sales Report](https://github.com/deedahir/ChocolateSalesAnalysis/assets/134728340/79d6bd17-0646-4f59-b20c-eff821da3fd5)  
